@@ -1,8 +1,8 @@
 ﻿
 #################### Parameters ###########################################
-$webUrl = "https://renovaenergia.sharepoint.com/sites/rnew_tecnologia_da_informacao";
+$webUrl = "https://seusite.sharepoint.com/sites/ti";
 $listUrl = "Documents";
-$destination = "C:\Users\faust\Downloads"
+$destination = "C:\Downloads"
 ###########################################################################
 
 #Connect-PnPOnline -Url $webUrl 
